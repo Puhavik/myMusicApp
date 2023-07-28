@@ -24,7 +24,7 @@ axios, MusicBrainz API, Cover Art Archive API
 
 Development Duration
 
-Time spent on development: 80 hours
+Time spent on development: 40 hours
 
 Additional Notes
 
